@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "category": "Tourist Boards"
+
+    },
+    {
+        "id":2,
+        "category": "Transportation"
+
+    },
+    {
+        "id":3,
+        "category": "Accommodation"
+
+    },
+    {
+        "id":4,
+        "category": "food & Beverage"
+
+    },
+    {
+        "id":5,
+        "category": "Entertainment"
+
+    }
+   
+
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "category": "Tourist Boards",
+        " Components of tourism":"International",
+        "category_id": 1,
+        "place":"HongKong",
+        "price":"₹75,107",
+        "package":"3day,2night",
+        "pepole":"1",
+        "Image": "https://cdn.pixabay.com/photo/2020/12/17/00/43/skyscrapers-5838029__340.jpg"
+     
+    },
+    {
+        "id": 2,
+        "category": "Tourist Boards",
+        " Components of tourism":"National",
+        "category_id": 1,
+        "place":"Delhi",
+        "package":"4day,3night",
+        "price":"₹15000",
+        "pepole":"1",
+        "Image": "https://cdn.pixabay.com/photo/2013/03/14/05/55/temple-93446__340.jpg"
+     
+    },
+    {
+        "id": 3,
+        "category": "Tourist Boards",
+        " Components of tourism":"Regional",
+        "category_id": 1,
+        "place":"Konkan",
+        "price":"₹4000",
+        "pepole":"1",
+        "Image": "https://cdn.pixabay.com/photo/2020/06/11/11/06/victoria-5286267__340.jpg"
+     
+    },
+    {
+        "id": 4,
+        "category": "Transportation",
+        "Transportation": "Airline",
+        "price":"Depend upon distance",
+        "category_id": 2,
+        "Image": "https://cdn.pixabay.com/photo/2016/11/08/05/01/airplane-1807486__340.jpg"
+     
+    },
+    {
+        "id": 5,
+        "category": "Transportation",
+        "Transportation": "Railway",
+        "price":"Depend upon distance",
+        "category_id": 2,
+        "Image": "https://cdn.pixabay.com/photo/2016/10/10/14/44/train-1728537__340.jpg"
+     
+    },
+    {
+        "id": 6,
+        "category": "Transportation",
+        "Transportation": "water transport",
+        "price":"Depend upon distance",
+        "category_id": 2,
+        "Image": "https://cdn.pixabay.com/photo/2019/11/06/21/28/ferry-4607185__340.jpg"
+     
+    },
+    {
+        "id": 7,
+        "category": "Accommodation",
+        "Accommodation":"Hotels",
+        "price":"₹4000",
+        "Timeing":"12am to 9am",
+        "pepole":"2",
+        "category_id": 3,
+        "Image": "https://cdn.pixabay.com/photo/2021/09/22/08/35/architecture-6646154__340.jpg "
+     
+    },
+    {
+        "id": 8,
+        "category": "Accommodation",
+        "Accommodation":"Camping",
+        "category_id": 3,
+        "Image": "https://cdn.pixabay.com/photo/2018/12/24/22/19/camping-3893587__340.jpg "
+      
+     
+    },
+    {
+        "id": 9,
+        "category": "Accommodation",
+        "Accommodation":"Resorts",
+        "price":"₹10000",
+        "Timeing":"12am to 9am",
+        "pepole":"2",
+        "category_id": 3,
+        "Image": "https://cdn.pixabay.com/photo/2017/12/16/22/22/bora-bora-3023437__340.jpg"
+       
+     
+    },
+    {
+        "id": 10,
+        "category": "food & Beverage",
+        "Option":"Restaurants",
+        "type":"Breakfast",
+        "category_id": 4,
+        "Image": "https://cdn.pixabay.com/photo/2014/09/17/20/26/restaurant-449952__340.jpg"
+     
+    },
+    {
+        "id": 11,
+        "category": "food & Beverage",
+        "Option":"Bars & Cafe",
+        "category_id": 4,
+        "Image": "https://media.istockphoto.com/id/1286692956/photo/empty-cafe-interior-with-chairs-and-tables.jpg?b=1&s=170667a&w=0&k=20&c=1Ik8m-G8BdfuChRbh5bvk9iH7XfEutzfEogjhCIk-as="
+     
+    },
+
+    {
+        "id": 12,
+        "category": "food & Beverage",
+        "Option":" Nightclubs",
+        "category_id": 4,
+        "Image": "https://cdn.pixabay.com/photo/2017/03/24/13/10/concert-2171166__340.jpg"
+     
+    },
+    {
+        "id": 13,
+        "category": "Entertainment",
+        "sub-categories":"Casino",
+        "category_id": 5,
+        "Image": "https://cdn.pixabay.com/photo/2015/11/19/16/27/casino-1051381__340.jpg"
+     
+    },
+    {
+        "id": 14,
+        "category": "Entertainment",
+        "sub-categories":"water Spots",
+        "category_id": 5,
+        "Image": "https://cdn.pixabay.com/photo/2021/01/08/17/56/river-5900547__340.jpg"
+     
+    },
+    {
+        "id": 15,
+        "category": "Entertainment",
+        "sub-categories":"Athletic events",
+        "category_id": 5,
+        "Image": "https://cdn.pixabay.com/photo/2013/09/27/02/41/soccer-186839__340.jpg"
+     
+    }
+]
